@@ -46,6 +46,7 @@ return(
           <div className="todo-text">
             {todo.text}
           </div>
+          <button>Delete ToDo</button>
         </div>)
 }
 </div>
